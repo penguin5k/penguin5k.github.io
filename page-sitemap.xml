@@ -8,10 +8,6 @@
 		<lastmod>2015-01-04T05:16:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/scholarship/</loc>
-		<lastmod>2015-01-04T05:16:35+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/results/2009-race-results/</loc>
 		<lastmod>2015-01-04T05:16:35+00:00</lastmod>
 	</url>
@@ -28,24 +24,8 @@
 		<lastmod>2015-01-04T05:16:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/race-information/fairview-park/</loc>
-		<lastmod>2015-01-04T05:16:35+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/race-information/griswold/</loc>
-		<lastmod>2015-01-04T05:16:35+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/race-information/staley-credit-union/</loc>
-		<lastmod>2015-01-04T05:16:35+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/results/multimedia/</loc>
 		<lastmod>2015-03-26T01:23:10+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/payment-canceled/</loc>
-		<lastmod>2015-03-28T21:14:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/customregistration/</loc>
@@ -60,47 +40,16 @@
 		<lastmod>2016-01-04T22:19:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/out-of-stock/</loc>
-		<lastmod>2016-03-13T19:53:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/race-information/accommodations/</loc>
-		<lastmod>2016-11-24T18:25:34+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/community/</loc>
 		<lastmod>2017-03-08T03:56:41+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/payment-success/</loc>
-		<lastmod>2017-03-16T14:14:31+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/donate/</loc>
-		<lastmod>2017-03-26T20:01:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/results/weather-history/</loc>
 		<lastmod>2018-03-20T23:07:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/faqs/</loc>
-		<lastmod>2019-03-10T20:18:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/help/</loc>
-		<lastmod>2020-02-20T23:56:43+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/contact-us/about/</loc>
 		<lastmod>2022-07-17T18:12:03+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/race-information/</loc>
-		<lastmod>2022-10-20T21:25:12+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/10/Screenshot-from-2021-10-09-09-51-08-e1633791151444.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/results/</loc>
